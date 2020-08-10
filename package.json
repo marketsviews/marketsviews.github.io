@@ -1,13 +1,13 @@
 {
-  "name": "Neumorphism",
+  "name": "MarketsViews",
   "version": "1.0.0",
   "description": "",
   "scripts": {
     "dev": "gulp",
     "prod": "gulp build"
   },
-  "author": "Long Do",
-  "license": "MIT",
+  "author": "NONE",
+  "license": "NONE",
   "dependencies": {
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
