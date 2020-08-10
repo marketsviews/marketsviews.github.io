@@ -1,0 +1,60 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Recomendações.
+  title-url: https://t.me/marketsviews/568
+  date: Sep 2019 - Present
+  subtitle: Como tinha dito que em agosto voltaríamos a mandar recomendações...
+  tags:
+    - tag: recomendações
+    - tag: opções
+    - tag: criptomoedas
+    - tag: análises
+  timeline-side: right
+
+- title: Informações Importantes.
+  title-url: https://t.me/marketsviews/503
+  date: Mar 2019 - Sep 2019
+  subtitle: Estou e estarei passando várias outras informações também muito importantes lá no grupo...
+  tags:
+    - tag: informações
+    - tag: grupo
+  timeline-side: right
+
+- title: Trecho do livro de hoje.
+  title-url: https://t.me/marketsviews/493
+  date: 2017 - 2019
+  subtitle: Daniel Kahneman - Rápido e devagar...
+  timeline-side: left
+
+- title: Estragégia.
+  title-url: https://t.me/marketsviews/136
+  date: Sep 2017 - Mar 2019
+  subtitle: Sobre estragégia de investimento...
+  tags:
+    - tag: capital
+    - tag: estragégia
+    - tag: investimento
+  timeline-side: right
+
+- title: Aviso.
+  title-url: https://t.me/marketsviews/133
+  date: 2014 - 2017
+  subtitle: Nesse lugar você não vai pegar todas as oportunidades, eu não te garanto lucro nenhum...
+  timeline-side: left
