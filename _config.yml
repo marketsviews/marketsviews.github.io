@@ -20,9 +20,9 @@ email: mail@marketsviews.info
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: marketsviews
-codepen_username: marketsviews
-dev_username: marketsviews
+telegram_username: marketsviews
+facebook_username: marketsviews
+instagram_username: marketsviews
 linkedin_username: marketsviews
 twitter_username: marketsviews
 
@@ -32,17 +32,9 @@ twitter_username: marketsviews
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
+about_me_title: Sobre Nós
 # about_me_description: This will be displayed under the title.
-about_me_description: Esses artigos monitoram e interpretam os mercados, fornecendo atualizações e percepções que refletem um prisma de perspectivas em todas as classes de ativos, geografias e plataformas de investimento. <a class="highlight-link" href="https://t.me/marketsviews" target="_blank" rel="noreferrer"> Github </a>. Mais informações no <a class="highlight-link" href="https://t.me/marketsviews" target="_blank" rel="noreferrer">Canal</a> e <a class="highlight-link" href="https://t.me/marketsviews" target="_blank" rel="noreferrer">Grupo</a>.
-
-# SKILLS SECTION
-# show_skills_card:
-# > setting this to true, will display the Skills section
-# > setting this to false, will omit the Skills section
-show_skills_card: true
-# about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+about_me_description: Esses artigos monitoram e interpretam os mercados, fornecendo atualizações e percepções que refletem um prisma de perspectivas em todas as classes de ativos.
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -50,28 +42,10 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: Nossa Jornada
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://t.me/marketsviews
-
-# PROJECTS SECTION
-# show_projects_card:
-# > setting this to true, will display the Projects section
-# > setting this to false, will omit the Projects section
-show_projects_card: true
-# show_projects:
-# > setting this to true, will display your listed projects in _data/projects.yml
-# > setting this to false, will omit your listed projects
-show_projects: true
-# projects_title: The will be displayed as the title of your projects
-projects_title: Projects
-# show_os_projects:
-# > setting this to true, will display your public projects on github
-# > setting this to false, will omit your public projects on github
-show_os_projects: true
-# os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Open Source Projects
 
 # CONTACT SECTION
 # show_contact_card:
@@ -79,9 +53,9 @@ os_projects_title: Open Source Projects
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
+contact_title: Contato
 # contact_description: This will be displayed under the title.
-contact_description: Entre en contato atraves do formulario abaixo <a class="highlight-link" href="https://t.me/marketsviews" target="_blank" rel="noreferrer"> Formulario </a>.
+contact_description: Entre em contato conosco através das nossas redes sociais
 
 # GITHUB-METADATA
 # Set this to your forked repository
