@@ -43,10 +43,10 @@ about_me_description: Esses artigos monitoram e interpretam os mercados, fornece
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Nossa Jornada
+timeline_title: Nossas Recomendações
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://t.me/marketsviews
+cv_download_link: t.me/marketsviews
 
 # CONTACT SECTION
 # show_contact_card:
