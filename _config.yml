@@ -17,6 +17,7 @@ username: Markets Views
 typing_text: Visões de Mercados
 # email: Your E-Mail address for the email button.
 email: mail@marketsviews.info
+newsletter: haI8rr
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
@@ -59,8 +60,8 @@ contact_description: Entre em contato conosco através das nossas redes sociais
 
 # SIGNUP SECTION
 show_signup_card: true
-sign_up_title: Teste
-sign_up_description: Testando
+sign_up_title: Newsletter
+sign_up_description: Assine o boletim informativo para receber recomendações exclusivas!
 
 # GITHUB-METADATA
 # Set this to your forked repository
