@@ -17,7 +17,7 @@ username: Markets Views
 typing_text: Visões de Mercados
 # email: Your E-Mail address for the email button.
 email: mail@marketsviews.info
-newsletter: http://eepurl.com/haI8rr
+newsletter: https://eepurl.com/haI8rr
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
@@ -44,9 +44,10 @@ about_me_description: Esses artigos monitoram e interpretam os mercados, fornece
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Nossas Recomendações
+aviso_title: Nesse lugar você não vai pegar todas as oportunidades, eu não te garanto lucro nenhum. O que te garanto é que se você estudar e seguir as recomendações você vai perder o mínimo possível.
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://t.me/marketsviews
+tlg_link: https://t.me/marketsviews
 
 # CONTACT SECTION
 # show_contact_card:

@@ -42,15 +42,15 @@
         {% include section-timeline.html %}
       </section>
     {% endif %}
-    {%if site.show_contact_card %}
-    <section class="card marketsviews-card-big">
-      {% include section-contact.html %}
-    </section>
-    {% endif %}
     {%if site.show_signup_card %}
       <section class="card marketsviews-card-big">
         {% include section-signup.html %}
       </section>
+    {% endif %}
+    {%if site.show_contact_card %}
+    <section class="card marketsviews-card-big">
+      {% include section-contact.html %}
+    </section>
     {% endif %}
   </div>
   {% include footer.html %}

@@ -41,6 +41,8 @@
   title-url: https://t.me/marketsviews/493
   date: Apr 26 2020
   subtitle: Daniel Kahneman - Rápido e devagar...
+  tags:
+    - tag: livro
   timeline-side: left
 
 - title: Estragégia.
@@ -52,9 +54,3 @@
     - tag: estragégia
     - tag: investimento
   timeline-side: right
-
-- title: Aviso.
-  title-url: https://t.me/marketsviews/133
-  date: Jan 26 2020
-  subtitle: Nesse lugar você não vai pegar todas as oportunidades, eu não te garanto lucro nenhum...
-  timeline-side: left
