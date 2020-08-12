@@ -47,6 +47,11 @@
       {% include section-contact.html %}
     </section>
     {% endif %}
+    {%if site.show_signup_card %}
+      <section class="card marketsviews-card-big">
+        {% include section-signup.html %}
+      </section>
+    {% endif %}
   </div>
   {% include footer.html %}
 </body>
