@@ -34,23 +34,12 @@
   </a>
   {% endif %}
 
-  {% if site.instagram_username != null %}
-  <a class="social-link black" aria-label="My Istagram" target="_blank" rel="noreferrer"
-    href="https://instagram.com/{{site.instagram_username}}">
+  {% if site.mastodon_username != null %}
+  <a class="social-link mastodon" aria-label="My Mastodon" target="_blank" rel="noreferrer"
+    href="https://liberdon.com/{{site.mastodon_username}}">
     <div class="social">
       <svg class="social-svg" viewBox="0 0 48 48">
-        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#instagram" | prepend: site.baseurl }}"></use>
-      </svg>
-    </div>
-  </a>
-  {% endif %}
-
-  {% if site.linkedin_username != null %}
-  <a class="social-link linkedin" aria-label="My LinkedIn" target="_blank" rel="noreferrer"
-    href="https://www.linkedin.com/{{site.linkedin_username}}">
-    <div class="social">
-      <svg class="social-svg" viewBox="0 0 48 48">
-        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#linkedin-in" | prepend: site.baseurl }}"></use>
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#mastodon" | prepend: site.baseurl }}"></use>
       </svg>
     </div>
   </a>
