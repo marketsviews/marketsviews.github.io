@@ -18,6 +18,14 @@
 #   timeline-side: right
 
 - title: Rolagem.
+  title-url: https://t.me/marketsviews/590
+  date: Sep 02 2020
+  subtitle: Rolagem operação vencimento 4 de setembro para 11 de setembro com 0,65% de lucro liquido...
+  tags:
+    - tag: Rolagem
+  timeline-side: right
+  
+- title: Rolagem.
   title-url: https://t.me/marketsviews/580
   date: Aug 25 2020
   subtitle: Rolagem operação vencimento 28 de agosto para 4 de setembro com 1,15% de lucro liquido...
@@ -26,10 +34,4 @@
   timeline-side: left
 
 
-- title: Rolagem.
-  title-url: https://t.me/marketsviews/590
-  date: Sep 02 2020
-  subtitle: Rolagem operação vencimento 4 de setembro para 11 de setembro com 0,65% de lucro liquido...
-  tags:
-    - tag: Rolagem
-  timeline-side: left
+
