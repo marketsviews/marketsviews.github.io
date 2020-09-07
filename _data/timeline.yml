@@ -17,6 +17,14 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Fechamento.
+  title-url: https://t.me/marketsviews/593
+  date: 05 de setembro 2020
+  subtitle: Hoje vamos fechar a operação aberta de venda de call com lucro líquido de 0.75%...
+  tags:
+    - tag: Fechamento
+  timeline-side: left
+
 - title: Rolagem.
   title-url: https://t.me/marketsviews/590
   date: 02 de setembro 2020
@@ -24,7 +32,7 @@
   tags:
     - tag: Rolagem
   timeline-side: right
-  
+
 - title: Rolagem.
   title-url: https://t.me/marketsviews/580
   date: 25 de Agosto 2020
